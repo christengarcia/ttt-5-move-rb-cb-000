@@ -10,3 +10,7 @@ end
 def input_to_index(board)
   board.to_i-1
 end
+
+def move
+
+end
